@@ -1,0 +1,8 @@
+# # Controlling Adruino in Python can be done using the following approaches
+
+# 1)pyserial-python library
+# 2)PyFirmata
+# 3)Ardruino-Python3
+
+The devices can be linked to clould using python web frameworkes such as  Django, Flask and FastApi.
+
